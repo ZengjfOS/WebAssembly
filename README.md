@@ -1,5 +1,9 @@
 # WebAssembly Emscripten
 
+[Example](http://zorozeng.com/WebAssembly/)
+
+**使用Chrome，按F12查看效果**
+
 ## 参考文档
 
 * [如何评论浏览器最新的 WebAssembly 字节码技术？](https://www.zhihu.com/question/31415286)
@@ -14,3 +18,4 @@
 ## 操作流程
 
 拷贝[test.html](test.html)、[test.wasm](test.wasm)到Web Server里，在浏览器中按F12，Console中可以看到数据。
+
