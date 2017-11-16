@@ -35,7 +35,7 @@
 
       loadWebAssembly('./test.wasm')
         .then(instance => {
-          console.log(Instance);
+          console.log(instance);
 
           // 这里的到处函数名要根据Instance里去查看，跟你选择的C/C++编译规范有关系
           const add = instance.exports._Z3addii
