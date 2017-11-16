@@ -4,6 +4,8 @@
 
 **使用Chrome，按F12查看效果**
 
+![img/example.png](img/example.png)
+
 ## 参考文档
 
 * [如何评论浏览器最新的 WebAssembly 字节码技术？](https://www.zhihu.com/question/31415286)
